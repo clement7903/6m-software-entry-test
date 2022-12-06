@@ -11,6 +11,8 @@
 
 function swap(x, y){
     // Task 1: Add code here
+    if (typeof x == 'number')
+    return result
 }
 
 // Task 2: Add code here
